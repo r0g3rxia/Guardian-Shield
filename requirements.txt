@@ -1,0 +1,10 @@
+opencv-python
+numpy
+faker
+pandas
+easyocr
+scikit-learn
+tensorflow
+Pillow
+matplotlib
+tk
