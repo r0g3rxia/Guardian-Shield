@@ -17,8 +17,3 @@ To run the notebook, you will need the following prerequisites:
 - Python 3.x
 - Jupyter Notebook
 
-### Prerequisites
-
-Install the necessary libraries by running:
-```bash
-pip install -r requirements.txt
